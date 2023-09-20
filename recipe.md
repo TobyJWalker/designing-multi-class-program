@@ -21,7 +21,7 @@ So that I can keep track of my contacts
 I want to see a list of all of the mobile phone numbers in all my diary entries
 
 >> CLASS STRUCTURES
-
+```python
 class Diary():
     def __init__():
         Purpose: Initialise some lists to store diary entries, todo list and contacts
@@ -140,6 +140,7 @@ class Todo():
         Input: None
         Output: Formatted todo item as string
         Effects: None
+```
 
 >> TESTS
 
