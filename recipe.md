@@ -186,6 +186,8 @@ Diary Tests:
     - todo is added to list of todos
     - contact inputted when adding contact is a Contact
     - contact is added to list of contacts
+
+Diary Integration tests:
     - list of contacts in readable format can be returned
     - single contact in readable format can be returned
     - list of entries in readable format can be returned
